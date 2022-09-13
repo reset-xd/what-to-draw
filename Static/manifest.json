@@ -1,0 +1,23 @@
+{
+    "short_name": "wtd",
+    "name": "what to draw",
+    "icons": [
+        {
+            "src": "https://what-to-draw.me/assets/img/whattodrawlogo.png",
+            "type": "image/png",
+            "sizes": "402x402",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://what-to-draw.me/assets/img/whattodrawlogo.png",
+            "type": "image/png",
+            "sizes": "402x402",
+            "purpose": "any maskable"
+        }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
