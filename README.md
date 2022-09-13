@@ -1,7 +1,7 @@
-<!--
+
 <a href="https://github.com/reset-xd/what-to-draw">
-  <img src="https://raw.githubusercontent.com/reset-xd/Tatsuyo/main/assets/Tatsuyo%20banner.png">
-</a> -->
+  <img src="https://cdn.discordapp.com/attachments/1018936393659076668/1019311139143819335/wtd_banner1.png">
+</a>
 
 #  What To Draw
 
